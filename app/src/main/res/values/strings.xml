@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Films</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="button_Registr">Register</string>
+    <string name="forgot_pass">Login</string>
+</resources>
